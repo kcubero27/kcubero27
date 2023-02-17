@@ -7,7 +7,7 @@
 
 - 👩🏻‍💻 Frontend Software Engineer. Passionate about JavaScript and its echosystem.
 
-Do you want to know more about me? Take a look into my full [CV](https://karencubero.notion.site/Karen-Cubero-Software-Engineer-03dd2cb83b444b7aae80be8b71ba61ee)
+Do you want to know more about me? Take a look into my full [profile](https://www.linkedin.com/in/karen-cubero-gonzalez/)
 
 ## Languages and Libraries
 - React.js
