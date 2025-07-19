@@ -1,6 +1,5 @@
 # Hi! I'm Karen 👋🏻
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kcubero27?style=social)](https://twitter.com/kcubero27)
 ![GitHub followers](https://img.shields.io/github/followers/kcubero27?style=social)
 
 ## About me
